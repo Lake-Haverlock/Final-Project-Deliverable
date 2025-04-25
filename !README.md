@@ -16,11 +16,12 @@ https://developer.apple.com/xcode/
 
 The menu allows five choices, selected by typing the number associated with each. These consist of: Insert, Update, Delete, Search, and Exit. Insert allows the user to type in the book title and author name. Update allows a previously entered entry to be modified. Delete allows an existing entry to be removed from the system. Search allows the user to find any book that includes the keyword if it is contained in the title or author's name. Exit will close the program.
 
-1. Open the program in your code editor of choice.
-2. Run the program
-3. Enter the number for your choice.
-4. Follow the menu instructions.
-5. Enter another number for your choice, or 5 to exist the program.
+1. Download the "LibrarySortingSystem.cpp" and "SortingSystem.h" files.
+2. Open the program in your code editor of choice.
+3. Run the program
+4. Enter the number for your choice.
+5. Follow the menu instructions.
+6. Enter another number for your choice, or 5 to exist the program.
 
 ### Build Information
 Written by Lake Haverlock using Visual Studio
