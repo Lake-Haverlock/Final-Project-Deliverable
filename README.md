@@ -19,9 +19,9 @@ The menu allows five choices, selected by typing the number associated with each
 1. Download the "LibrarySortingSystem.cpp" and "SortingSystem.h" files.
 2. Open the program in your code editor of choice.
 3. Run the program
-4. Press '1', type book title, press 'Enter', followed by author title, and 'Enter' once more. The program will then state you have successfully entered a book into the system.
-5. Enter another number for your choice, and follow menu instructions. The format is typically the same as for inserting a new entry.
-6. When you are ready to end the program, navigate to the menu and press '5' to exit.
+4. Press '1', then type the book title and press 'Enter', followed by the author's name, and 'Enter' once more. The program will then state you have successfully entered a book into the system.
+5. Enter another number for your choice, and follow menu instructions. The format is typically the same as for inserting a new entry. Note that entering an incorrect entry when searching, deleting, or updating will cause the operation to fail.
+7. When you are ready to end the program, navigate to the menu and press '5' to exit.
 
 ### Build Information
-Written by Lake Haverlock using Visual Studio
+Written by Lake Haverlock using Visual Studio 2022.
