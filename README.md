@@ -16,7 +16,7 @@ https://developer.apple.com/xcode/
 
 The menu allows five choices, selected by typing the number associated with each. These consist of: Insert, Update, Delete, Search, and Exit. Insert allows the user to type in the book title and author name. Update allows a previously entered entry to be modified. Delete allows an existing entry to be removed from the system. Search allows the user to find any book that includes the keyword if it is contained in the title or author's name. Exit will close the program.
 
-1. Download the "LibrarySortingSystem.cpp" and "SortingSystem.h" files.
+1. Download the "LibrarySortingSystem.cpp" and "LibraryAVLTree.h" files.
 2. Open the program in your code editor of choice.
 3. Run the program
 4. Press '1', then type the book title and press 'Enter', followed by the author's name, and 'Enter' once more. The program will then state you have successfully entered a book into the system.
